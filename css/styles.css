@@ -3945,11 +3945,7 @@ td:last-child {
  * ------------------------------------------------------------------- */
 .s-works {
     padding-top   : var(--vspace-6);
-<<<<<<< HEAD
     padding-bottom: var(--vspace-4);
-=======
-    padding-bottom: var(--vspace-1);
->>>>>>> ca34e383f9f4276d2fcd10635bca3213bd159e31
 }
 
 .folio-entries {
